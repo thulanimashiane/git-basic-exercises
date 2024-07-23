@@ -1,0 +1,196 @@
+    1  sudo apt-get install upgrade
+    2  sudo apt-get install git
+    3  git config --global user.email "mashianethulani23@gmail.com"
+    4  git config --global user.name "thulanimashiane"
+    5  ls
+    6  cd Documents/
+    7  cd
+    8  ls
+    9  cd Documents/
+   10  ls
+   11  cd 'Untitled Folder'/
+   12  ls
+   13  rm -ri
+   14  rm --help
+   15  rm -ri /
+   16  rm -ri mint@mint-ZED-Air-CX3/Documents/'Untitled Folder'
+   17  rm -ri 'mint@mint-ZED-Air-CX3/Documents/Untitled Folder'
+   18  rm -ri 'Untitled Folder'
+   19  rm -ri git-basic-exercises
+   20  ls
+   21  rm -ri git-basic-exercises
+   22  git
+   23  git clone https://github.com/Umuzi-org/Thulani-Mashiane-219-level-1-programming-katas-python.git
+   24  git config --global user.email "mashianethulani23@gmail.com"
+   25  git config --global user.name "thulanimashiane"
+   26  git clone https://github.com/Umuzi-org/Thulani-Mashiane-219-level-1-programming-katas-python.git
+   27  git remote set-url origin http://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@github.com/Umuzi-org/Thulani-Mashiane-219-level-1-programming-katas-python
+   28  git remote set-url origin http://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@github.com/Umuzi-org/Thulani-Mashiane-219-level-1-programming-katas-python.git
+   29  git clone https://github.com/Umuzi-org/Thulani-Mashiane-219-level-1-programming-katas-python.git
+   30  ls
+   31  cd Thulani-Mashiane-219-level-1-programming-katas-python/
+   32  ls
+   33  git checkout main
+   34  git pull
+   35  git checkout -b task/1
+   36  sublime task1.py
+   37  subl -n task1.py
+   38  #!/usr/bin/env python3
+   39  chmod +x task1.py
+   40  ./task1.py
+   41  #!/usr/bin/env python3
+   42  chmod +x task1.py
+   43  ./task1.py
+   44  chmod +x task1.py
+   45  ./task1.py
+   46  chmod +x task1.py
+   47  #!/usr/bin/env python3
+   48  chmod +x task1.py
+   49  ./task1.py
+   50  chmod +x task1.py
+   51  ./task1.py
+   52  chmod +x task1.py
+   53  ./task1.py
+   54  chmod +x task1.py
+   55  ./task1.py
+   56  chmod +x task1.py
+   57  ./task1.py
+   58  python --version
+   59  python3 --version
+   60  python3 task1.py
+   61  subl -n task2.py
+   62  git status
+   63  git add task1.py
+   64  git commit -m "first draft of task1.py"
+   65  git status
+   66  git push
+   67  git push --set-upstream origin task/1
+   68  git checkout main
+   69  git pull
+   70  git checkout task/2
+   71  git checkout -b task/2
+   72  subl -n task2.py
+   73  python3 task2.py
+   74  git status
+   75  git add task2.py
+   76  git status
+   77  git push --set-upstream origin task/2
+   78  git status
+   79  git add task2.py
+   80  git commit -m "first draft of task2.py"
+   81  git status
+   82  git push
+   83  git status
+   84  git checkout main
+   85  git pull
+   86  git checkout -b task/3
+   87  subl -n task3.py
+   88  python3 task3.py
+   89  git status
+   90  git add task3.py
+   91  git commit -m "first draft of task3.py"
+   92  git status
+   93  git push
+   94  git push --set-upstream origin task/3
+   95  git checkout main
+   96  git pull
+   97  git checkout -b task/4
+   98  subl -n task4.py
+   99  python3 task4.py
+  100  git status
+  101  git commit -m "first draft of task4.py"
+  102  git status
+  103  git push
+  104  git push --set-upstream origin task/4
+  105  git status
+  106  git checkout main
+  107  git pull
+  108  git checkout -b task/5
+  109  subl -n task5.py
+  110  python3 task5.py
+  111  git status
+  112  git add task5.py
+  113  git commit -m "first draft of task5.py"
+  114  git status
+  115  git push
+  116  git push --set-upstream origin task/5
+  117  git status
+  118  git checkout main
+  119  git pull
+  120  git checkout -b task/6
+  121  subl -n task6.py
+  122  python3 task6.py
+  123  git status
+  124  git add task6.py
+  125  git commit -m "first draft of task6.py"
+  126  git push --set-upstream origin task/5
+  127  git push --set-upstream origin task/6
+  128  git status
+  129  git checkout main
+  130  git pull
+  131  git checkout -b task/7
+  132  subl -n task6.py
+  133  subl -n task7.py
+  134  python3 task7.py
+  135  git add task7.py
+  136  git commit -m "first draft of task7.py"
+  137  git push --set-upstream origin task/7
+  138  git status
+  139  git checkout main
+  140  git pull
+  141  git checkout -b task/7
+  142  git branch
+  143  git branch task/7
+  144  git task/7
+  145  git push --set-upstream origin task/7
+  146  git status
+  147  git checkout task/7
+  148  git remote set-url origin http://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@github.com/Umuzi-org/Thulani-Mashiane-219-level-1-programming-katas-python.git
+  149  ls
+  150  mkdir git-basic-exercises
+  151  cd git-basic-exercises/
+  152  ls -a
+  153  git init
+  154  ls -a
+  155  git status
+  156  touch README.md
+  157  ls  -a
+  158  git status
+  159  git add README.md
+  160  git status
+  161  git commit -m "initial commit"
+  162  git log
+  163  nano README.md
+  164  cat  README.md
+  165  git status
+  166* git commit -m "second commit
+  167  git commit -m "second commit"
+  168  nano README.md
+  169  git add README.md
+  170  git commit -m "third commit"
+  171  git log
+  172  git checkout 7aa1d3d7d3ab240752d3df5002b369116a24376a
+  173  cat README.md
+  174  git  checkout main
+  175  git checkout main
+  176  cat README.md
+  177  git checkout HEAD
+  178  cat README.md
+  179  git branch
+  180  git checkout -b milkshake-flavours
+  181  git branch
+  182  git checkout milkshake-flavours 
+  183  nano milkshakes.md
+  184  git status
+  185  git add milkshakes.md 
+  186  git commit -m "added initial flavours"
+  187  git log
+  188  git checkout HEAD
+  189  git status
+  190  git checkout master
+  191  git status
+  192  git checkout -b history
+  193  git log
+  194  git branch
+  195  git branch history
+  196  history > history.txt
