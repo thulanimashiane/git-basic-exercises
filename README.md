@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 def testing():
-=======
 def testing(arbitary_change):
->>>>>>> milkshake-flavours
-	
-	print("Hello Wolrd")
+
+ print("Hello Wolrd")
 
 =======
 booya
->>>>>>> history
+history
